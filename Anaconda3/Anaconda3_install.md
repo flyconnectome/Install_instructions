@@ -11,7 +11,7 @@ This install will also update pip.
 
 ## Install instructions
 
-1. Remove older versions.
+### 1. Remove older versions.
 
 If you already have a version of anaconda3 or anaconda2 installed on your computer, then I suggest
 removing these installations before proceeding - if they were working, you wouldn't be here. 
@@ -24,7 +24,7 @@ rm -rf ~/anaconda3
 
 Substitue anaconda3 for anaconda2 as needed.
 
-### 1. Download Anaconda
+### 2. Download Anaconda
 
 Move our current working directory to the tmp folder (temporary folder), 
 so that the install files get deleted after we've installed and turned our 
@@ -45,7 +45,7 @@ Note: the `Anaconda3-2019.03-Linux-x86_64.sh` path can be substituted for any
 version of anaconda on the [anaconda repo](https://repo.anaconda.com/archive/)
 
 
-### 2. Install on Ubuntu
+### 3. Install on Ubuntu
 
 Start the install
 
@@ -61,7 +61,7 @@ You will see a list of core packages being installed.
 After this, there will be prompt asking you whether to terminate the conda-init file.
 Agree to this and close the terminal. 
 
-### 3. Test
+### 4. Test
 
 Now to open anaconda we have two options, both of which must be entered in a new terminal window.
 
