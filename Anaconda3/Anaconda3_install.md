@@ -74,7 +74,10 @@ Now to open anaconda we have two options, both of which must be entered in a **n
 	Download the packages you need (e.g. Jupyter notebook, Jupyter lab, R, Spyder)
 
 1. Just open Jupyter notebook/ lab
- 	`jupter notebook` OR
+
+ 	`jupter notebook` 
+	
+	OR
 	
 	 `jupyter lab`
 
