@@ -79,9 +79,8 @@ Now to open anaconda we have two options, both of which must be entered in a new
 ... `jupyter lab`
 
 
-## WOOP! Anaconda should be downloaded and now you can start installing 
-the packages you need like [dvid_tools](https://github.com/flyconnectome/dvid_tools), 
-[pymaid](https://pymaid.readthedocs.io/en/latest/) and [neuprint_python](https://neuprint-python.readthedocs.io/en/latest/) 
+## WOOP! 
+Anaconda should be downloaded and now you can start installing the packages you need like [dvid_tools](https://github.com/flyconnectome/dvid_tools), [pymaid](https://pymaid.readthedocs.io/en/latest/) and [neuprint_python](https://neuprint-python.readthedocs.io/en/latest/).
 
 
 
