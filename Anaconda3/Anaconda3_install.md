@@ -1,4 +1,4 @@
-# Installation instructions for Anaconda3 on linux x86_64 machines at Janelia.
+# Installation instructions for Anaconda3 on Linux machines at Janelia.
 
 Due to user permissions and potential machine breaks on the linux machines at Janelia, 
 one of two methods for updating python, pip etc. is to use the [Anaconda platform](www.anaconda.org). 
