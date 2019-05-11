@@ -1,4 +1,4 @@
-# Installation instructions for Anaconda3 on Linux machines at Janelia.
+# Installation instructions for Anaconda3 on Linux machines at Janelia
 
 Due to user permissions and potential machine breaks on the linux machines at Janelia, 
 one of two methods for updating python, pip etc. is to use the [Anaconda platform](www.anaconda.org). The other (more complicated) method is described at the bottom of this markdown file, which won't necessarily update pip.
@@ -9,10 +9,10 @@ from the [anaconda online archive](https://repo.anaconda.com/archive/). This ins
 
 ## Install instructions
 
-### 1. Remove older versions.
+### 1. Remove older versions
 
 If you already have a version of anaconda3 or anaconda2 installed on your computer, then I suggest
-removing these installations before proceeding - if they were working, you wouldn't be here. 
+removing these installations before proceeding - if they were working, you wouldn't be reading this. 
 
 Open the terminal and run:
 
