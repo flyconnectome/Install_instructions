@@ -1,13 +1,11 @@
 # Installation instructions for Anaconda3 on Linux machines at Janelia.
 
 Due to user permissions and potential machine breaks on the linux machines at Janelia, 
-one of two methods for updating python, pip etc. is to use the [Anaconda platform](www.anaconda.org). 
+one of two methods for updating python, pip etc. is to use the [Anaconda platform](www.anaconda.org). The other (more complicated) method is described at the bottom of this markdown file, which won't necessarily update pip.
 
-These instructions are specified for downloading Anaconda3-2019 on a x86_64 Linux machine, although these 
+The following instructions are specified for downloading Anaconda3-2019 on a x86_64 Linux machine, although these 
 instructions can me modified to download and install any version of Anaconda3 or Anaconda2 
-from the [anaconda online archive](https://repo.anaconda.com/archive/) 
-
-This install will also update pip. 
+from the [anaconda online archive](https://repo.anaconda.com/archive/). This install will also update pip. 
 
 ## Install instructions
 
@@ -84,7 +82,17 @@ Now to open anaconda we have two options, both of which must be entered in a **n
 ## WOOP! 
 Anaconda should be downloaded and now you can start installing the packages you need like [dvid_tools](https://github.com/flyconnectome/dvid_tools), [pymaid](https://pymaid.readthedocs.io/en/latest/) and [neuprint_python](https://neuprint-python.readthedocs.io/en/latest/).
 
+## Another more complicated way...
 
+Use the python already available on the machine, available at 
+
+`/misc/local/python-3.5.2/bin/python3` OR `/misc/local/python-2.7.11/bin/python`
+
+To do this add the following line to your `.bashrc` file in the home directory.
+
+`export PATH=/misc/local/python-3.5.2/bin:$PATH`
+
+To mediate these changes, log out of your computer and log back in. When the `python` or `python3` command is entered in the terminal, it will call this version.
 
 # Acknowledgements / Requiring further assistance 
 
