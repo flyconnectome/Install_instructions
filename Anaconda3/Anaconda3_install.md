@@ -67,10 +67,9 @@ Now to open anaconda we have two options, both of which must be entered in a **n
 
 1. Open anaconda navigator and install the desired platforms
 	
- 	Enter `anaconda-navigator` into the terminal. This will load the anaconda-navigator 
-
- 	platform management (you should see a large green circle in the middle of your screen)
-
+ 	Enter `anaconda-navigator` into the terminal. 
+	
+	This will load the anaconda-navigator platform management (you should see a large green circle in the middle of your screen)
 	Download the packages you need (e.g. Jupyter notebook, Jupyter lab, R, Spyder)
 
 1. Just open Jupyter notebook/ lab
