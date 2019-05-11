@@ -80,7 +80,7 @@ Now to open anaconda we have two options, both of which must be entered in a **n
 
 
 ## WOOP! 
-Anaconda should be downloaded and now you can start installing the packages you need like [dvid_tools](https://github.com/flyconnectome/dvid_tools), [pymaid](https://pymaid.readthedocs.io/en/latest/) and [neuprint_python](https://neuprint-python.readthedocs.io/en/latest/).
+Anaconda should be downloaded and now you can start installing the packages you need like [dvid_tools](https://github.com/flyconnectome/dvid_tools), [pymaid](https://pymaid.readthedocs.io/en/latest/) and [neuprint_python](https://neuprint-python.readthedocs.io/en/latest/) via the terminal, using pip. 
 
 ## Another more complicated way...
 
