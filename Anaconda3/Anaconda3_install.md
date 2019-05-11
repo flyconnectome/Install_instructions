@@ -98,7 +98,7 @@ To mediate these changes, log out of your computer and log back in. When the `py
 
 These instructions were written by Markus Pleijzier, RA at the Drosophila Connectomics Group, Department of Zoology, University of Cambridge.
 
-If you need further assistance please don't hesitate to contact Markus. He is available on the FlyEM slack channel.
+If you need further assistance please don't hesitate to contact Markus. He is available on the FlyEM and FAFB slack channels.
 
 
 
